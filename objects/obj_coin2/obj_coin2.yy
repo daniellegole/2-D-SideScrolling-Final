@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_coin",
+  "%Name":"obj_coin2",
   "eventList":[],
   "managed":true,
-  "name":"obj_coin",
+  "name":"obj_coin2",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",

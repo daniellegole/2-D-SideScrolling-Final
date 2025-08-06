@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_coin",
+  "%Name":"Object42",
   "eventList":[],
   "managed":true,
-  "name":"obj_coin",
+  "name":"Object42",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -27,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_coin2",
-    "path":"sprites/spr_coin2/spr_coin2.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

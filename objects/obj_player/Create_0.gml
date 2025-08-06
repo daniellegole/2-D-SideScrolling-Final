@@ -8,6 +8,6 @@ collision_tilemap = layer_tilemap_get_id("Tiles_1");
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 1E788ED4
-/// @DnDArgument : "expr" "layer_tilemap_get_id("Tiles_2")"
+/// @DnDArgument : "expr" "layer_tilemap_get_id("death_zone")"
 /// @DnDArgument : "var" "collision_tilemap_death_zone"
-collision_tilemap_death_zone = layer_tilemap_get_id("Tiles_2");
+collision_tilemap_death_zone = layer_tilemap_get_id("death_zone");
